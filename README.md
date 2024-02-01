@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Johnny Fagundes
+# Hi there! 👋 I'm Johnny
 
 I'm a passionate Software Engineer with a focus on mobile development. My primary expertise lies in Android development, but I'm also well-versed in hybrid frameworks like Flutter with Dart and have some experience with Swift for iOS.
 
