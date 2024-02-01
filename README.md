@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there! 👋 I'm Johnny Fagundes
 
-<!--
-**JohnnyFa/johnnyFa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Software Engineer with a focus on mobile development. My primary expertise lies in Android development, but I'm also well-versed in hybrid frameworks like Flutter with Dart and have some experience with Swift for iOS.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Android Development
+- Flutter & Dart
+- Swift (iOS)
+- Mobile UI/UX Design
+- Software Architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyFa&theme=tokyonight)](https://github.com/johnnyFa)
+
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/johnny-fagundes/)
+
+Feel free to explore my repositories and projects! If you have any questions or just want to chat, don't hesitate to reach out.
