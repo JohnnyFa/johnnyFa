@@ -15,4 +15,3 @@ I'm a passionate Software Engineer with a focus on mobile development. My primar
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/johnny-fagundes/)
 
-Feel free to explore my repositories and projects! If you have any questions or just want to chat, don't hesitate to reach out.
